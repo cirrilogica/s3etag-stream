@@ -2,8 +2,9 @@
 	"author": "Eric Stanley <github@cirrilogica.com>",
 	"name": "s3etag-stream",
 	"description": "Streams implementation of eTag calculation for objects in Amazon AWS S3",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"license": "MIT",
+	"main": "./lib/index.js",
 	"keywords": [
 		"stream",
 		"aws",
